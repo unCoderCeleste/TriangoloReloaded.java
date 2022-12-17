@@ -7,7 +7,7 @@ fino a raggiungere il numero di righe indicato dall’utente.
 Per le righe successive, il numero di asterischi per riga
 deve decrescere di uno per ogni nuova riga.*/
 import java.util.Scanner;
-public class Main {
+public class TriangoloReloaded {
     public static void main(String[] args) {
         Scanner tri = new Scanner(System.in);
         System.out.print("Inserisca un numero fra 2 e 50 per disegnare il triangolo: ");
